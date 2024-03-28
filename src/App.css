@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#root {
+    max-width: 1280px;
+    margin: 12px;
+    position: fixed;
+    top: 12px;
+    left: 12px;
+}
